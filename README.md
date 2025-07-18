@@ -9,10 +9,10 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>        
                                                                                                                 
-<details  align="center">
+<details  align="left">
 <summary  style="font-size:30px; color:#03989EFF">Technologies and Tools</summary>
 <br>                     
-<p  align="center">
+<p  align="left">
 <img  alt="Visual Studio Code"  src="https://img.shields.io/badge/Visual Studio Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 <img  alt="Visual Studio"  src="https://img.shields.io/badge/Visual Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"/>
 <img  alt="Atom"  src="https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white"/>
@@ -21,7 +21,7 @@
 <img  alt="Insomnia"  src="https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE"/>
 <img  alt="Postman"  src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
-<p  align="center">
+<p  align="left">
 <img  alt="HTML5"  src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
 <img  alt="Markdown"  src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white"/>
 <img  alt="Python"  src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
@@ -31,13 +31,13 @@
 <img  alt="MySQL"  src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img  alt="Express js"  src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
 </p>
-<p  align="center">
+<p  align="left">
 <img  alt="CSS3"  src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
 <img  alt="Bootstrap"  src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 <img  alt="TailwindCSS"  src="https://img.shields.io/badge/tailwind css-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 <img  alt="SASS"  src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"/>
 </p>
-<p  align="center">
+<p  align="left">
 <img  alt="JavaScript"  src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 <img  alt="React"  src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 <img  alt="Next JS"  src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/>
@@ -47,7 +47,7 @@
 <img  alt="ESLint"  src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white" />
 <img  alt="Babel"  src="https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black" />
 </p>
-<p  align="center">
+<p  align="left">
 <img  alt="git"  src="https://img.shields.io/badge/GIT-%23E34F26.svg?style=for-the-badge&logo=git&logoColor=white"/>
 <img  alt="Github"  src="https://img.shields.io/badge/github-%23000000.svg?style=for-the-badge&logo=github&logoColor=white"/>
 <img  alt="AWS"  src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
@@ -64,10 +64,10 @@
 </details>
                                                                                                                           
 
-<details  align="center">
+<details  align="left">
 <summary  style="font-size:25px; color:#03989EFF">Graphics Design</summary>
 <br>
-<p  align="center">
+<p  align="left">
 <img  alt="Adobe Photoshop"  src="https://img.shields.io/badge/adobe photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
 <img  alt="Adobe Illustrator"  src="https://img.shields.io/badge/adobe illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white"/>
 <img  alt="Canva"  src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"/>
@@ -75,10 +75,10 @@
 </p>
 </details>
 
-<details  align="center">
+<details  align="left">
 <summary  style="font-size:25px; color:#03989EFF">Learning Tools and Platforms</summary>
 <br>
-<p  align="center">
+<p  align="left">
 <img  alt="Duolingo"  src="https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white"/>
 <img  alt="FreeCodeCamp"  src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green"/>
 <img  alt="HackerRank"  src="https://img.shields.io/badge/-Hacker rank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
@@ -95,10 +95,10 @@
 </p>
 </details>
                                                                                                                  
-<details  align="center">
+<details  align="left">
 <summary  style="font-size:25px; color:#03989EFF">Gaming Platforms and Technologies</summary>
 <br>
-<p  align="center">
+<p  align="left">
 <img  alt="Steam"  src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white"/>
 <img  alt="Unreal Engine"  src="https://img.shields.io/badge/unreal engine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white"/>
 <img  alt="Unity"  src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"/>
@@ -124,33 +124,6 @@
 </td>
 </tr>
 </table>
-                                                                                    
-<p  align="center">
-<a href="https://github.com/slmnalfauzi/slmnalfauzi.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=slmnalfauzi&repo=slmnalfauzi.github.io&theme=dark&hide_border=true&no-bg=true&no-frame=true" />
-</a>
-<a href="https://github.com/slmnalfauzi/Perceptron-Algorithm">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=slmnalfauzi&repo=Perceptron-Algorithm&theme=dark&hide_border=true&no-bg=true&no-frame=true" />
-</a>
-<a href="https://github.com/slmnalfauzi/Genetic-Algorithm">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=slmnalfauzi&repo=Genetic-Algorithm&theme=dark&hide_border=true&no-bg=true&no-frame=true" />
-</a>
-<a href="https://github.com/slmnalfauzi/Cpp-Project">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=slmnalfauzi&repo=Cpp-Project&theme=dark&hide_border=true&no-bg=true&no-frame=true" />
-</a>
-<a href="https://github.com/slmnalfauzi/Python-Project">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=slmnalfauzi&repo=Python-Project&theme=dark&hide_border=true&no-bg=true&no-frame=true" />
-</a>
-<a href="https://github.com/slmnalfauzi/react-todos">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=slmnalfauzi&repo=react-todos&theme=dark&hide_border=true&no-bg=true&no-frame=true" />
-</a>
-<a href="https://github.com/slmnalfauzi/codewars-solutions">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=slmnalfauzi&repo=codewars-solutions&theme=dark&hide_border=true&no-bg=true&no-frame=true" />
-</a>
-<a href="https://github.com/slmnalfauzi/react-meetup">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=slmnalfauzi&repo=react-meetup&theme=dark&hide_border=true&no-bg=true&no-frame=true" />
-</a>
-</p>
                                                                                                                  
 <p  align="center">
 <img  src="https://github-profile-trophy.vercel.app/?username=slmnalfauzi&theme=gruvbox&no-frame=true&column=5&margin-w=0&margin-h=0"  alt="Salman github stats"/>
