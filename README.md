@@ -4,9 +4,6 @@
 </p>
 
 <!-- TYPING SVG -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?size=35&center=true&vCenter=true&color=03989EFF&width=900&lines=Welcome to My GitHub!;Software+Developer;Sunan+Kalijaga+State+Islamic+University" width="100%" height="35px">
-</p>
 
 <!-- INTRODUCTION & QUOTE -->
 <p align="center">
@@ -19,15 +16,15 @@
 
 
 <p align="center">
-  <a href="https://www.youtube.com/c/DevProTips?sub_confirmation=1">
+  <a href="#">
     <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/app/youtube-stats-badges/subscribers-badge.php"/></a>
-  <a href="https://www.youtube.com/c/DevProTips">
+  <a href="#">
     <img alt="youtube views" title="YouTube views" src="https://freshidea.com/jonah/app/youtube-stats-badges/view-count-badge.php"/></a> 
-  <a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers">
+  <a href="https://github.com/slmnalfauzi?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/DenverCoder1?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-  <a href="https://github.com/DenverCoder1?tab=followers">
+  <a href="https://github.com/slmnalfauzi?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/DenverCoder1?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://github.com/DenverCoder1/Simple-View-Counter">
+  <a href="https://github.com/slmnalfauzi/Simple-View-Counter">
     <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a>
 </p>
 
@@ -35,9 +32,6 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
-
-<!-- TECHNOLOGIES & TOOLS -->
-<h2>🖥️ Technologies & Tools</h2>
 
 <!-- Programming and Markup Languages -->
 <h3>💻 Programming and Markup Languages</h3>
@@ -127,9 +121,6 @@
 </p>
 
 <!-- GRAPHICS DESIGN -->
-<details align="left">
-<summary style="font-size:25px; color:#03989EFF">Graphics Design</summary>
-<br>
 <h3>🎨 Graphics Design</h3>
 <p>
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
@@ -174,6 +165,6 @@
 <p align="center">
   <a href="https://github.com/slmnalfauzi"><img alt="GitHub" src="https://img.shields.io/badge/github-%23000000.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/slmnalfauzi"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:slmnalfauzi@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:slmnalfauzi165@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://slmnalfauzi.github.io/"><img src="https://img.shields.io/badge/website-%230077B5.svg?&style=for-the-badge&logo=circle&logoColor=white"/></a>
 </p>
