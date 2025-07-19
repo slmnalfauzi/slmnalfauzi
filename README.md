@@ -5,7 +5,7 @@
 
 <!-- TYPING SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?size=35&center=true&vCenter=true&color=03989EFF&width=900&lines=Welcome to My GitHub!;Software+Engineer;Web+Developer;AI/ML+Engineer" width="100%" height="35px">
+  <img src="https://readme-typing-svg.herokuapp.com/?size=35&center=true&vCenter=true&color=03989EFF&width=900&lines=Welcome to My GitHub!;Software+Developer;Sunan+Kalijaga+State+Islamic+University" width="100%" height="35px">
 </p>
 
 <!-- INTRODUCTION & QUOTE -->
