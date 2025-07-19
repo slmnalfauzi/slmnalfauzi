@@ -4,7 +4,6 @@
 </p>
 
 <!-- TYPING SVG -->
-
 <!-- INTRODUCTION & QUOTE -->
 <p align="center">
   <b>Hello! I'm Salman Alfauzi.</b><br>
@@ -14,28 +13,15 @@
   <em>"Start where you are. Use what you have. Do what you can."</em><br>
 </p>
 
-
-<p align="center">
-  <a href="#">
-    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/app/youtube-stats-badges/subscribers-badge.php"/></a>
-  <a href="#">
-    <img alt="youtube views" title="YouTube views" src="https://freshidea.com/jonah/app/youtube-stats-badges/view-count-badge.php"/></a> 
-  <a href="https://github.com/slmnalfauzi?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/DenverCoder1?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-  <a href="https://github.com/slmnalfauzi?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/DenverCoder1?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://github.com/slmnalfauzi/Simple-View-Counter">
-    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a>
-</p>
-
 <!-- MAIN GIF -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
 
 <!-- Programming and Markup Languages -->
-<h3>💻 Programming and Markup Languages</h3>
+<details align=left><summary style="font-size:30px; color:#03989EFF">💻 Programming and Markup Languages</summary>
 <p>
+  <br>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -50,10 +36,12 @@
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
   <img src="https://img.shields.io/badge/Processing-006699?style=for-the-badge&logo=processing&logoColor=white"/>
 </p>
+</details>
 
 <!-- Frameworks and Libraries -->
-<h3>📦 Frameworks and Libraries</h3>
+<details align=left><summary style="font-size:30px; color:#03989EFF">📦 Frameworks and Libraries</summary>
 <p>
+  <br>
   <!-- Javascript Frameworks -->
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
@@ -79,10 +67,12 @@
   <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
 </p>
+</details>
 
 <!-- Database and Cloud Hosting -->
-<h3>🗄️ Databases and Cloud Hosting</h3>
+<details align=left><summary style="font-size:30px; color:#03989EFF">🗄️ Databases and Cloud Hosting</summary>
 <p>
+  <br>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -92,10 +82,12 @@
   <img src="https://img.shields.io/badge/Repl.it-667881?style=for-the-badge&logo=replit&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
 </p>
+</details>
 
 <!-- Software and Tools -->
-<h3>💻 Software and Tools</h3>
+<details align=left><summary style="font-size:30px; color:#03989EFF">💻 Software and Tools</summary>
 <p>
+  <br>
   <img src="https://img.shields.io/badge/Adobe-F44336?style=for-the-badge&logo=adobe&logoColor=white"/>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
@@ -119,10 +111,14 @@
   <img src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </p>
+</details>
+
 
 <!-- GRAPHICS DESIGN -->
-<h3>🎨 Graphics Design</h3>
+<details align="left">
+<summary style="font-size:30px; color:#03989EFF">🎨 Graphics Design</summary>
 <p>
+  <br>
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/CorelDraw-009849?style=for-the-badge&logo=coreldraw&logoColor=white"/>
@@ -165,6 +161,9 @@
 <p align="center">
   <a href="https://github.com/slmnalfauzi"><img alt="GitHub" src="https://img.shields.io/badge/github-%23000000.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/slmnalfauzi"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:slmnalfauzi165@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:slmnalfauzi@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://slmnalfauzi.github.io/"><img src="https://img.shields.io/badge/website-%230077B5.svg?&style=for-the-badge&logo=circle&logoColor=white"/></a>
+  <a href="https://instagram.com/slmnalfauzi"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://tiktok.com/@slmnalfauzi"><img alt="TikTok" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/></a>
+  <a href="https://x.com/slmnalfauzi"><img alt="X" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
 </p>
