@@ -126,10 +126,6 @@
 </table>
                                                                                                                  
 <p  align="center">
-<img  src="https://github-profile-trophy.vercel.app/?username=slmnalfauzi&theme=gruvbox&no-frame=true&column=5&margin-w=0&margin-h=0"  alt="Salman github stats"/>
-</p>
-
-<p  align="center">
 <a  href="https://github.com/slmnalfauzi/github-readme-activity-graph"><img  alt="Salman's Activity Graph"  src="https://github-readme-activity-graph.vercel.app/graph?username=slmnalfauzi&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true&no-bg=true&no-frame=true" /></a>
 </p>
 
