@@ -146,7 +146,6 @@
 </td>
 </tr>
 </table>
-<p align="center"><i>All stats and streaks above are updated in real-time from your GitHub activity.</i></p>
 
 <!-- ACTIVITY GRAPH -->
 <p align="center">
