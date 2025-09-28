@@ -1,6 +1,10 @@
+
 <!-- HEADER IMAGE -->
 <p align="center">
   <img src="header_.png" alt="Header" width="100%">
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=slmnalfauzi&label=Profile%20views&color=0e75b6&style=flat" alt="slmnalfauzi" />
 </p>
 
 <!-- TYPING SVG -->
@@ -129,7 +133,8 @@
 </p>
 </details>
 
-<!-- STATS -->
+
+<!-- STATS (Real-Time) -->
 <table border="0">
 <tr border="0">
 <td width="50%" align="center">
@@ -141,6 +146,7 @@
 </td>
 </tr>
 </table>
+<p align="center"><i>All stats and streaks above are updated in real-time from your GitHub activity.</i></p>
 
 <!-- ACTIVITY GRAPH -->
 <p align="center">
